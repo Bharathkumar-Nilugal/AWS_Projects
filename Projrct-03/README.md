@@ -147,6 +147,13 @@ To receive alerts:
  ```bash
   yes > /dev/null &
 ```
-Wait for alarm to trigger
+- Wait for alarm to trigger
+- Check email for SNS alert
+---
 
-Check email for SNS alert
+## 📘 License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project with attribution.
+
+---
+
