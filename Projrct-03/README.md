@@ -1,4 +1,4 @@
-# 🌐 AWS-complete-Secured-infrastructure
+# 🌐 AWS-complete-Secured-infrastructure, Backup & Restore, monitoring.
 
 This project demonstrates a complete AWS infrastructure setup using VPC, EC2, Systems Manager (SSM), NAT Gateway, Apache Web Server, AMI backup/restore, and CloudWatch monitoring. It showcases secure architecture, automated provisioning, and proactive alerting.
 
